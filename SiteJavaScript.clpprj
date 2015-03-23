@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Z:\home\sitejavascript.com\www\SiteJavaScript.clpprj">
+	<settings><PM_URL><![CDATA[]]></PM_URL><PM_HOME_URL><![CDATA[]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";Z:\home\SiteJavaScript\custom.css;Z:\home\SiteJavaScript\javascript.js;"/><added value=""/><lastopfiles>
+		<file name="Z:\home\sitejavascript.com\www\index.html"/>
+		<file name="Z:\home\sitejavascript.com\www\css\style.css"/>
+		<file name="Z:\home\sitejavascript.com\www\css\reset.css"/>
+		<file name="Z:\home\sitejavascript.com\www\js\menu.js"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+		</phptree>
+		<jstree>
+			<treenode node="menuButton;JS:Function Name;Z:\home\sitejavascript.com\www\js\menu.js;f0;7;1;15;;;;vpos;;v;;r;;d21,7;;b0,0;;m">
+				<treenode node="document;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f18;8;26;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="menubutton;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f5;8;15;8;;;;vposDOMElement;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="style;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f15;9;20;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+						<treenode node="display;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f21;9;28;9;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+						</treenode>
+					</treenode>
+				</treenode>
+			</treenode>
+			<treenode node="siteSearch;JS:Function Name;Z:\home\sitejavascript.com\www\js\menu.js;f0;1;1;4;;;;vpos;;v;;r;;d21,1;;b0,0;;m">
+				<treenode node="document;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f18;2;26;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="sitesearch;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f5;2;15;2;;;;vposDOMElement;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="value;JS:JS Var Name;Z:\home\sitejavascript.com\www\js\menu.js;f12;3;17;3;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</treenode>
+			<treenode node="document;JS:JS Var Name;Z:\home\SiteJavaScript\Codelobster0.js;f18;1;26;1;;Z:\home\SiteJavaScript\js\javascript.js;f18;1;26;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="menuButton;JS:JS Var Name;Z:\home\SiteJavaScript\Codelobster0.js;f5;1;15;1;;Z:\home\SiteJavaScript\js\javascript.js;f5;1;15;1;;;;vposDOMElement;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="style;JS:JS Var Name;Z:\home\SiteJavaScript\Codelobster0.js;f12;2;17;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="cssText;JS:JS Var Name;Z:\home\SiteJavaScript\Codelobster0.js;f18;2;25;2;;Z:\home\SiteJavaScript\js\javascript.js;f18;2;25;2;;Z:\home\SiteJavaScript\js\javascript.js;f18;2;25;2;;Z:\home\SiteJavaScript\js\javascript.js;f18;2;25;2;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="value;JS:JS Var Name;Codelobster1.html;f12;11;17;11;;Z:\home\SiteJavaScript\js\javascript.js;f12;2;17;2;;Z:\home\SiteJavaScript\js\javascript.js;f12;4;17;4;;Z:\home\SiteJavaScript\js\javascript.js;f12;4;17;4;;Z:\home\SiteJavaScript\js\javascript.js;f12;2;17;2;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="Z:\home\sitejavascript.com\www\js\menu.js" crc="-592854047"/>
+		<file name="Z:\home\sitejavascript.com\www\css\style.css" crc="-753986298"/>
+		<file name="Z:\home\sitejavascript.com\www\css\reset.css" crc="-150115665"/>
+	</filescache>
+</project>
